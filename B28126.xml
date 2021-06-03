@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pilulae Londinenses. or, the London pills, directed and prepared by a physician of many years standing in the College of Physicians in London, according to true rules of art, good for prevention, as well as the cure of all diseases, wherein purging is proper.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28126</idno><idno type="EEBO-CITATION">99888968</idno>
+  <idno type="VID">196103</idno>
+  <idno type="EEBO-PROQUEST">2240903417</idno>
+  
+            <idno type="STC">Wing P2241A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32.[113]</idno>
+            <idno type="STC">ESTC R232591</idno>
+            <idno type="PROQUEST">ocm99888968</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888968e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196103)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[111])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pilulae Londinenses. or, the London pills, directed and prepared by a physician of many years standing in the College of Physicians in London, according to true rules of art, good for prevention, as well as the cure of all diseases, wherein purging is proper.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_quack_medicine">
+            <pb facs="tcp:196103:1"/>
+            <head>PILƲLAE LONDINENSES. or, The <hi>London Pills,</hi> Directed and prepared by a Physician of many years standing in the College of Physicians in <hi>London,</hi> according to true Rules of Art, good for Prevention, as well as the Cure of all Diseases, wherein Purging is proper.</head>
+            <p>BY the advantages of a Liberal Education in the Uni<g ref="char:EOLhyphen"/>versity, and many years Experience in the practice of Physick in this City, the unprejudiced cannot but think me a person capable not only of detecting the innumera<g ref="char:EOLhyphen"/>ble mischiefs arising from Quacks, and their ill compoun<g ref="char:EOLhyphen"/>ded and worse prepared Trash, but also of making Me<g ref="char:EOLhyphen"/>dicines far surpassing any that such Men can pretend to the knowledge of. Accordingly I have invented, and for some time published, for the benefit of the Publick, these Pills (the result of Reason and Experience) which I have justly brought their poysonous and absurd Physick under a deserved disreputation, all that are wise now dreading to trust their lives with those Pretenders, by whom so many have suffered; since they have ample Assurance on <hi>Whom</hi> and <hi>What</hi> they may rely. For not only the meaner sort of all Ages, and each Sex, but people of Eminence both for their Rank in the World and their Parts, have found admirable success in taking these Pills.</p>
+            <p>They are and have been found successful in the Scur<g ref="char:EOLhyphen"/>vy, Venereal Disease, Gout, Dropsie, <hi>Coma,</hi> Lethargy, <hi>Ca<g ref="char:EOLhyphen"/>rus,</hi> Apoplexy, Palsy, Convulsion, Falling-Sickness, <hi>Verti<g ref="char:EOLhyphen"/>go,</hi> Madness, Catarrhs, Headach, Scald and sore Heads, fore Eyes, Deafness, Toothach, fore Mouth, sore and swol<g ref="char:EOLhyphen"/>len Throat, foul Stomach, bad Digestion, Vomiting, Pain at the Stomach, sowre Belching, Colick, Twisting of the Guts, Loosness, Worms, all Obstructions of the <hi>Pancreas,</hi> of the Mefaraick Veins, of the passages of the Chyle, and of the Liver and Spleen, the Jaundice, Cachexy, Hypo<g ref="char:EOLhyphen"/>chondriack Melancholy, Green-Sickness and most Diseases of the Womb, Agues, Itch, Boyls, Rheumatism, Pains and Aches, Surfeits by eating and hard drinking, or by Heats and Colds (as some call them.) They are also good in ta<g ref="char:EOLhyphen"/>king the Waters. I would not advise them by any means in the Bloody-Flux, nor in continual Fevers; but they are good to purge after either of those Diseases is over, or to
+<pb facs="tcp:196103:2"/>carry off the Humor aforehand. They must also be <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> born by Women with Child. Otherwise they are good for any Constitution and in any Clime. They are dura<g ref="char:EOLhyphen"/>ble many years, and good at Sea as well as on Land.</p>
+            <p>They are proper in the forementioned Diseases at any time of the Year: And because no people are so exactly emperate, as not to contract some superfluous Humors endangering their Health, it is necessary, and prudent for them every <hi>Spring</hi> and <hi>Fall,</hi> to discharge those Humors, tho' they feel nothing urgent in themselves so to do, more than their provident care for Maintenance of their Health they then enjoy. And a Dose or two of these Pills may probably ensure any ordinary Constitution for half a year.</p>
+            <p>But I t<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>k it Charity to caution you against some cob<g ref="char:EOLhyphen"/>ling Doctors, who having no Knowledge in the Earth, pretend to a great deal in the Stars: Do but read their <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and they will tell you their skill in Nonsense, and their Ignorance in Physick, notwithstanding their boasted Astrology. Believe them as little, who dare advise Women with Child to <hi>take as many</hi> of their purging Pills <hi>as their Body will bear,</hi> not regarding the Murther of Children.</p>
+            <p>Nor let their impudence move you any more than to Indignation, who having no reputation of their own, boast of Physicians approving their Trash, but produce no Phy<g ref="char:EOLhyphen"/>sician's name that does so: You may justly suspect such Mens Physick equally with their vain Assertions.</p>
+            <p>Most of these Mountebank-Doctors also that commen<g ref="char:EOLhyphen"/>ced in a Shop, being Vagrants from their Trades, provide feigned Letters of feigned Cures, as a Pass for their poy<g ref="char:EOLhyphen"/>sonous Mercurial Physick, from one Town to another, ha<g ref="char:EOLhyphen"/>ving no other Patent recommendatory to practise by, than the Fob of a Letter from some Country-Fellow, in commendation of some Physick which he never took. These things being far remote from Ingenuity or Learn<g ref="char:EOLhyphen"/>ing, I shall never trouble you with any such.</p>
+            <p>These <hi>London</hi> Pills are sold in several Places in <hi>London,</hi> and at my House on the Left-hand the Arch in great <hi>Winchester-street</hi> (where you may have Advice in all Diseases; I being to be spoken with be<g ref="char:EOLhyphen"/>tween eight and nine in the Morning, 1 and 2 in the Afternoon, and five and six in the Evening.) They are sealed up in Tin Doxes, with a Serpent encircling the word <hi>[SALƲS.]</hi> Their Price 2 <hi>s.</hi> 6 <hi>d.</hi> the larger Box, and 1 <hi>s.</hi> the less, with ample Directions how to use them.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
